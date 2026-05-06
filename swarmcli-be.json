@@ -1,0 +1,28 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Eldara-Tech/swarmcli-be-releases/releases/download/v1.0.0/swarmcli_Windows_i386.zip",
+            "bin": [
+                "swarmcli.exe"
+            ],
+            "hash": "f4c4827c12f6690293c4e45ca8a6ec515cdd79cd61abc99bed0b7fb5d72e36bf"
+        },
+        "64bit": {
+            "url": "https://github.com/Eldara-Tech/swarmcli-be-releases/releases/download/v1.0.0/swarmcli_Windows_x86_64.zip",
+            "bin": [
+                "swarmcli.exe"
+            ],
+            "hash": "737a1892071f62418c63ffbeaba20172d55f3f1d5903d7bec7837d5fa7368a9e"
+        },
+        "arm64": {
+            "url": "https://github.com/Eldara-Tech/swarmcli-be-releases/releases/download/v1.0.0/swarmcli_Windows_arm64.zip",
+            "bin": [
+                "swarmcli.exe"
+            ],
+            "hash": "b92afbc6a4017983c9ede261dc2bb7e6bf57c44dc8060a10130cb53d74f00b9d"
+        }
+    },
+    "homepage": "https://swarmcli.io",
+    "description": "Docker Swarm TUI management tool (Business Edition)"
+}
